@@ -2,7 +2,9 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv>
-
+<channel id="Telecinco.TV">
+<display-name>Telecinco.TV</display-name>
+</channel>
 <programme channel="Telecinco.TV" start="20240206060000 +0000" stop="20240206075500 +0000">
 <title>Informativos Telecinco matinal</title>
 <desc>Primera edición informativa de la cadena presentada por Arancha Morales y Laila Jiménez. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
